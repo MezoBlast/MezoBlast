@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MezoBlast
 - 👀 I’m interested in Condensed Matter Physics/ Scientific Data Processing/ Programing for Fun
-- 🌱 I’m currently learning Data Processing with Numpy/ C++ Programing/ Optimization
+- 🌱 I’m currently learning C++/Rust
 - 📫 How to reach me zhaoziqing17@mails.ucas.ac.cn
 
 <!---
