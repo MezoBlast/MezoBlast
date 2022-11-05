@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MezoBlast
-- 👀 I’m interested in Condensed Matter Physics/ Scientific Data Processing/ Programing for Fun
+- 👀 I'm learning some basic computer science knowledge
 - 🌱 I’m currently learning C++/Rust
 - 📫 How to reach me zhaoziqing17@mails.ucas.ac.cn
+- ✨ Rust No. 1!!!
 
 <!---
 MezoBlast/MezoBlast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
