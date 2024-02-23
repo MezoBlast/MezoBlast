@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MezoBlast
-- 👀 I'm learning some basic computer science knowledge
-- 🌱 I’m currently learning C++/Rust
+- 👀 I'm mainly interested in Computational Imaging, Computer Vision, AIGC 
 - 📫 How to reach me zhaoziqing17@mails.ucas.ac.cn
 - ✨ Rust No. 1!!!
 
